@@ -1,0 +1,22 @@
+    <h1>HTML WIKIPEDIA</h1>
+    <h2>About HTML</h2>
+    <hr>
+    <h3>HISTORY OF HTML </h3>
+    <hr>
+    <p>HTML stands for hyper text markup language</p>
+    <p>In 1989, Berners-Lee wrote a memo proposing an Internet-based hypertext system.[3] Berners-Lee specified HTML and wrote the browser and server software in late 1990.</p>
+    <h3>DEVELOPMENT OF HTML</h3>
+    <hr>
+    <p>After the HTML and HTML+ drafts expired in early 1994, the IETF created an HTML Working Group. In 1995, this working group completed "HTML 2.0", the first HTML specification intended to be treated as a standard against which future implementations should be based. Since 1996, the HTML specifications have been maintained, with input from commercial software vendors, by the World Wide Web Consortium (W3C).[13] In 2000, HTML became an international standard (ISO/IEC 15445:2000)</p>
+    <p>HTML elements are the building blocks of HTML pages. With HTML constructs, images and other objects such as interactive forms may be embedded into the rendered page. HTML provides a means to create structured documents by denoting structural semantics for text such as headings, paragraphs, lists, links, quotes, and other items</p>
+    <h2>some key points about the html</h2>
+    <pre>HTML 2
+        November 24, 1995
+        HTML 3
+        January 14, 1997
+        HTML 4
+        December 18, 1997</pre>
+        <img src="https://www.w3.org/Press/Stock/Berners-Lee/2001-europaeum-eighth.jpg" alt="html image">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" alt="html logo" width="100px">
+        <p>this above images shows the html logo and person related to html</p>
+        <h2>all about html in brief</h2>
