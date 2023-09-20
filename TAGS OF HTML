@@ -1,0 +1,12 @@
+   <!-- <h1>books to read</h1>
+    <hr>
+    <p1>there are lots of books to read</p1>
+    <a href="https://codewithharry.com">click here</a>
+    <a href="https://www.google.com">click here</a>
+    <h1>image insertion</h1>
+    <img src="https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1965&q=80" alt="human image" width="121px">
+    <b>this is bold</b>
+    <br>
+    <i>this is italic</i>
+    <br>
+    <u>this is underlined</u>
