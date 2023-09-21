@@ -1,0 +1,32 @@
+    <header>
+        this is header
+
+    </header>
+    <main>
+        <section>
+            <div>
+                <h1>why html</h1>
+                <p>i love html bcoz i like doing this</p>
+            </div>
+            <div>
+                <h1>why css</h1>
+                <p1>i love css</p1>
+            </div>
+            <span>i m span
+<!-- span is an example of inline element -->
+            </span>
+            <span>i m anoter span
+
+            </span>
+        </section>
+        <section>
+            <a href="https://codewithharry.com" target="_blank">open with codewithharry</a><br>
+            <a href="https://google.com" target="_blank">open with google</a><br>
+            <a href="https://facebook.com" target="_blank">open with facebook</a><br>
+
+        </section>
+    </main>
+    <footer>
+        this is footer
+
+    </footer>
